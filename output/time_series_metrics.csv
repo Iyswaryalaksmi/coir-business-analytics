@@ -1,0 +1,2 @@
+Model,MAE,RMSE,R-squared
+Holt Damped-Trend Exponential Smoothing,2.03206007743188,2.1652241776333887,-0.18388781298186485
